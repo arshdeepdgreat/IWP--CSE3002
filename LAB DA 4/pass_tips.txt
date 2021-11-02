@@ -1,0 +1,4 @@
+Tips for good password <br>
+1. Dont use common password like hello123 etc. <br>
+2. Use a password with length of 5 - 20 <br>
+3. Use special characters like $,#,@ <br>
